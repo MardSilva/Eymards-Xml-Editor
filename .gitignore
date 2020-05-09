@@ -21,6 +21,7 @@
 *.sdf
 ipch/
 obj/
+packages/
 [Bb]in
 [Dd]ebug*/
 [Rr]elease*/
