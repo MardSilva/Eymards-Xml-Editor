@@ -17,6 +17,7 @@
 *.log
 *.lib
 *.sbr
+*.sln
 *.sdf
 ipch/
 obj/
