@@ -6,14 +6,7 @@ Welcome to the oficial repository of a simple and free XML Editor.
 
 ## Project Status
 ![GitHub last commit](https://img.shields.io/github/last-commit/MardSilva/Eymards-Xml-Editor)
-## Installing the Editor
-
-```
-To install the XML Editor, you need to download the setup.exe on 'Version' folder.
-```
-## How to use the XML Editor
-
- Open a XML file and make the changes. 
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/MardSilva/Eymards-Xml-Editor/master)
 
 
 ## Contributing 
@@ -23,4 +16,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+![GitHub](https://img.shields.io/github/license/MardSilva/Eymards-Xml-Editor)
