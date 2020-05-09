@@ -101,7 +101,7 @@ namespace Eymard_s_XML_Editor
                 swEscritorLog.WriteLine("---------------------------------------------------------------------------");
                 swEscritorLog.Write("Entrada de Log - Log de Erro de XML");
                 swEscritorLog.WriteLine("{1} {0}", DateTime.Now.ToLongTimeString(), DateTime.Now.ToLongDateString());
-                swEscritorLog.WriteLine(strLog);
+                swEscritorLog.WriteLine("   :{0}", strLog);
                 swEscritorLog.WriteLine("---------------------------------------------------------------------------");
                 swEscritorLog.Close();
             }
@@ -120,7 +120,7 @@ namespace Eymard_s_XML_Editor
                 swEscritorLog.WriteLine("---------------------------------------------------------------------------");
                 swEscritorLog.Write("Entrada de Log - Log de Erro de XML\r\n");
                 swEscritorLog.WriteLine("{1} {0}", DateTime.Now.ToLongTimeString(), DateTime.Now.ToLongDateString());
-                swEscritorLog.WriteLine(strLog);
+                swEscritorLog.WriteLine("   :{0}", strLog);
                 swEscritorLog.WriteLine("---------------------------------------------------------------------------");
                 swEscritorLog.Close();
             }
