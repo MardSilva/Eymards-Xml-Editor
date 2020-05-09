@@ -5,7 +5,7 @@
 Welcome to the oficial repository of a simple and free XML Editor.
 
 ## Project Status
-[!Build Status](https://img.shields.io/github/last-commit/MardSilva/Eymards-Xml-Editor)
+![GitHub last commit](https://img.shields.io/github/last-commit/MardSilva/Eymards-Xml-Editor)
 ## Installing the Editor
 
 ```
