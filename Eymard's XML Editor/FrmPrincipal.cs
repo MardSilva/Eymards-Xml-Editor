@@ -32,6 +32,8 @@ namespace Eymard_s_XML_Editor
             txtValorTreeView.Visible = false;
             tvXMLView.Visible = false;
             pcbLogo.Image = Resources.LogoXML;
+            rbButtonFechar.Enabled = false;
+            rbButtonSalvarXML.Enabled = false;
         }
         private void rbButtonAbrir_Click(object sender, EventArgs e)
         {
@@ -132,7 +134,12 @@ namespace Eymard_s_XML_Editor
                 btnConfirmarEdicao.Enabled = false;
                 scContainerTreeView.Dock = DockStyle.Fill;
                 scContainerTreeView.Visible = true;
+                rbButtonFechar.Enabled = true;
 
+                //caso abra um arquivo no editor, não posso visualizar, por estar editando.
+                rbButtonVisualizar.Enabled = false;
+
+                //alimentando a variável global de edição
                 blnEditando = true;
             }
         }

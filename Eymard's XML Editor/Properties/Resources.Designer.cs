@@ -71,11 +71,31 @@ namespace Eymard_s_XML_Editor.Properties {
         }
         
         /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+        /// </summary>
+        internal static System.Drawing.Icon abrir_ico {
+            get {
+                object obj = ResourceManager.GetObject("abrir_ico", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+        /// </summary>
+        internal static System.Drawing.Icon compare {
+            get {
+                object obj = ResourceManager.GetObject("compare", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap abrir_32x321 {
+        internal static System.Drawing.Bitmap compare_32x32 {
             get {
-                object obj = ResourceManager.GetObject("abrir_32x321", resourceCulture);
+                object obj = ResourceManager.GetObject("compare_32x32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,19 +103,39 @@ namespace Eymard_s_XML_Editor.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap abrir_48x48 {
+        internal static System.Drawing.Bitmap fechar_32x32 {
             get {
-                object obj = ResourceManager.GetObject("abrir_48x48", resourceCulture);
+                object obj = ResourceManager.GetObject("fechar_32x32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+        /// </summary>
+        internal static System.Drawing.Icon fechar_ico {
+            get {
+                object obj = ResourceManager.GetObject("fechar_ico", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+        /// </summary>
+        internal static System.Drawing.Icon logo_editor {
+            get {
+                object obj = ResourceManager.GetObject("logo_editor", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
             }
         }
         
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap abrir_96x96 {
+        internal static System.Drawing.Bitmap logo_sobre_texto {
             get {
-                object obj = ResourceManager.GetObject("abrir_96x96", resourceCulture);
+                object obj = ResourceManager.GetObject("logo_sobre_texto", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -106,6 +146,46 @@ namespace Eymard_s_XML_Editor.Properties {
         internal static System.Drawing.Bitmap LogoXML {
             get {
                 object obj = ResourceManager.GetObject("LogoXML", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap salvar_32x32 {
+            get {
+                object obj = ResourceManager.GetObject("salvar_32x32", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+        /// </summary>
+        internal static System.Drawing.Icon sobre_32x32 {
+            get {
+                object obj = ResourceManager.GetObject("sobre_32x32", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap view_32x32 {
+            get {
+                object obj = ResourceManager.GetObject("view_32x32", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap view_olhos_32x32 {
+            get {
+                object obj = ResourceManager.GetObject("view_olhos_32x32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

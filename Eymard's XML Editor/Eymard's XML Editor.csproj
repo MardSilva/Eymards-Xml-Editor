@@ -55,7 +55,7 @@
     <Compile Include="FrmPrincipal.Designer.cs">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="LogEditorXML.cs" />
+    <Compile Include="Classes\LogEditorXML.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmPrincipal.resx">
@@ -98,10 +98,46 @@
     <None Include="Resources\abrir_48x48.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\abrir_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\abrir_32x32.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\abrir_32x321.png" />
+    <None Include="Resources\compare_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fechar_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salvar_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_olhos_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abrir_ico.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compare.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fechar_ico.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_editor.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salvar_32x32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sobre_32x32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_sobre_texto.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
