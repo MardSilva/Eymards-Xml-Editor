@@ -1,0 +1,12 @@
+C:\Users\ejsil\source\repos\Eymard's XML Editor\Eymard's XML Editor\bin\Debug\Eymard's XML Editor.exe.config
+C:\Users\ejsil\source\repos\Eymard's XML Editor\Eymard's XML Editor\bin\Debug\Eymard's XML Editor.exe
+C:\Users\ejsil\source\repos\Eymard's XML Editor\Eymard's XML Editor\bin\Debug\Eymard's XML Editor.pdb
+C:\Users\ejsil\source\repos\Eymard's XML Editor\Eymard's XML Editor\obj\Debug\Eymard's XML Editor.csprojAssemblyReference.cache
+C:\Users\ejsil\source\repos\Eymard's XML Editor\Eymard's XML Editor\obj\Debug\Eymard_s_XML_Editor.Properties.Resources.resources
+C:\Users\ejsil\source\repos\Eymard's XML Editor\Eymard's XML Editor\obj\Debug\Eymard's XML Editor.csproj.GenerateResource.cache
+C:\Users\ejsil\source\repos\Eymard's XML Editor\Eymard's XML Editor\obj\Debug\Eymard's XML Editor.csproj.CoreCompileInputs.cache
+C:\Users\ejsil\source\repos\Eymard's XML Editor\Eymard's XML Editor\obj\Debug\Eymard's XML Editor.exe
+C:\Users\ejsil\source\repos\Eymard's XML Editor\Eymard's XML Editor\obj\Debug\Eymard's XML Editor.pdb
+C:\Users\ejsil\source\repos\Eymard's XML Editor\Eymard's XML Editor\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\ejsil\source\repos\Eymard's XML Editor\Eymard's XML Editor\obj\Debug\Eymard's XML Editor.csproj.CopyComplete
+C:\Users\ejsil\source\repos\Eymard's XML Editor\Eymard's XML Editor\obj\Debug\Eymard_s_XML_Editor.FrmPrincipal.resources
